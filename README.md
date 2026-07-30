@@ -4,7 +4,7 @@
 
 🌐 **Mon portfolio : [hermas-adjada.github.io](https://hermas-adjada.github.io)**
 
-Trois stages, trois environnements (entreprise, opérateur télécom, ministère), un même fil conducteur : faire fonctionner des réseaux dont les gens dépendent vraiment.
+Trois stages puis un CDD d'administrateur réseaux, trois environnements (entreprise, opérateur télécom, ministère), un même fil conducteur : faire fonctionner des réseaux dont les gens dépendent vraiment.
 
 ## 🔧 Compétences
 - **Réseaux** : administration et sécurisation de LAN, Cisco, GNS3, Packet Tracer
