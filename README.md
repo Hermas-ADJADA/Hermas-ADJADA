@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hermas Adjada
 
-<!--
-**Hermas-ADJADA/Hermas-ADJADA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Administrateur Systèmes & Réseaux en formation (CESI) | Recherche alternance dès septembre 2026**
 
-Here are some ideas to get you started:
+🌐 **Mon portfolio : [hermas-adjada.github.io](https://hermas-adjada.github.io)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Quatre stages, trois environnements (entreprise, opérateur télécom, ministère), un même fil conducteur : faire fonctionner des réseaux dont les gens dépendent vraiment.
+
+## 🔧 Compétences
+- **Réseaux** : administration et sécurisation de LAN, Cisco, GNS3, Packet Tracer
+- **Systèmes** : Windows, Linux, Docker, sauvegardes
+- **Dev & data** : Python, PHP, MySQL, HTML/CSS, Power BI
+
+## 📌 Disponibilité
+Alternance dès septembre 2026 | 3 semaines entreprise / 1 semaine école | Mobilité : toute la France
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/hermas-adjada-3558b6425/) · adjadahermas@gmail.com
